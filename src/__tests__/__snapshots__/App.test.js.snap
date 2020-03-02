@@ -1,0 +1,44 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders without crashing 1`] = `
+<body>
+  <div>
+    <div
+      class="App"
+    >
+      <nav
+        class="navbar navbar-expand navbar-dark bg-dark"
+      >
+        <div
+          class="mr-auto navbar-nav"
+        >
+          <a
+            class="nav-link"
+            data-rb-event-key="/"
+            href="/"
+          >
+            Home
+          </a>
+        </div>
+      </nav>
+      <div>
+        <label
+          for="Query"
+        >
+          Search: 
+        </label>
+        <input
+          name="Query"
+          value=""
+        />
+        <br />
+        <button
+          type="submit"
+        >
+          Submit
+        </button>
+      </div>
+    </div>
+  </div>
+</body>
+`;
